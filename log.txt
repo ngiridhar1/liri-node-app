@@ -1,0 +1,435 @@
+﻿**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a75b08c8c6f942be80c5f305e88471f6
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=a75b08c8c6f942be80c5f305e88471f6
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=a75b08c8c6f942be80c5f305e88471f6
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+17
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=a75b08c8c6f942be80c5f305e88471f6
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=a75b08c8c6f942be80c5f305e88471f6
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Curacao North Sea Jazz Festival
+Venue Location: Willemstad, Curaçao
+Date of the Event: 2019-08-31T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+Venue Location: Hollywood
+Date of the Event: 2019-10-25T20:00:00
+*****************************
+**********SONG INFO*********
+0
+song name: Truth Hurts
+preview song: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Cuz I Love You (Deluxe)
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+1
+song name: I Don't Care (with Justin Bieber)
+preview song: https://p.scdn.co/mp3-preview/40d2bf0a16b4a4c7e5747a57943f9c0bbf5bc5ab?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I Don't Care (with Justin Bieber)
+artist(s): Ed Sheeran
+*****************************
+**********SONG INFO*********
+2
+song name: If I Can't Have You
+preview song: null
+album: If I Can't Have You
+artist(s): Shawn Mendes
+*****************************
+**********SONG INFO*********
+3
+song name: i love you
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+4
+song name: i
+preview song: https://p.scdn.co/mp3-preview/a393c84f01ff692b048e5f06479b3f827dd7f5c0?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Shelby
+artist(s): Lil Skies
+*****************************
+**********SONG INFO*********
+5
+song name: Can I
+preview song: null
+album: Care Package
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+6
+song name: Can I
+preview song: null
+album: Care Package
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+7
+song name: I Get Lonely
+preview song: null
+album: Care Package
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+8
+song name: I Fall Apart
+preview song: null
+album: Stoney (Deluxe)
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+9
+song name: Murder On My Mind
+preview song: https://p.scdn.co/mp3-preview/b681a45cf2f796326f42bed43a6e419cd88ef92c?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I AM YOU
+artist(s): YNW Melly
+*****************************
+**********SONG INFO*********
+10
+song name: I Get Lonely
+preview song: null
+album: Care Package
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+11
+song name: I Like It
+preview song: https://p.scdn.co/mp3-preview/0f8734f51bb0a419959fdad3a0852621f9e6bc89?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Invasion of Privacy
+artist(s): Cardi B
+*****************************
+**********SONG INFO*********
+12
+song name: a lot
+preview song: https://p.scdn.co/mp3-preview/0ff1fadf009e81e7d80912c2372c7381a49e5863?cid=a75b08c8c6f942be80c5f305e88471f6
+album: i am > i was
+artist(s): 21 Savage
+*****************************
+**********SONG INFO*********
+13
+song name: Hey Look Ma, I Made It
+preview song: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Pray for the Wicked
+artist(s): Panic! At The Disco
+*****************************
+**********SONG INFO*********
+14
+song name: Whiskey Glasses
+preview song: https://p.scdn.co/mp3-preview/e30ac4e29a82422b9fa8454ddde40af92c63c709?cid=a75b08c8c6f942be80c5f305e88471f6
+album: If I Know Me
+artist(s): Morgan Wallen
+*****************************
+**********SONG INFO*********
+15
+song name: I Like Me Better
+preview song: https://p.scdn.co/mp3-preview/fa069a3be2d69aab5378b55f6c66d8b3eff1a6d3?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I Like Me Better
+artist(s): Lauv
+*****************************
+**********SONG INFO*********
+16
+song name: I THINK
+preview song: https://p.scdn.co/mp3-preview/02728662c29717a7607f50a038dcf43fecbaa891?cid=a75b08c8c6f942be80c5f305e88471f6
+album: IGOR
+artist(s): Tyler, The Creator
+*****************************
+**********SONG INFO*********
+17
+song name: Juice
+preview song: https://p.scdn.co/mp3-preview/7ca1598cec36c49118562b02491b9a030e233d88?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Cuz I Love You
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+18
+song name: 'Till I Collapse
+preview song: null
+album: The Eminem Show
+artist(s): Eminem
+*****************************
+**********SONG INFO*********
+19
+song name: listen before i go
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+0
+song name: Truth Hurts
+preview song: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Cuz I Love You (Deluxe)
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+1
+song name: I Don't Care (with Justin Bieber)
+preview song: https://p.scdn.co/mp3-preview/40d2bf0a16b4a4c7e5747a57943f9c0bbf5bc5ab?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I Don't Care (with Justin Bieber)
+artist(s): Ed Sheeran
+*****************************
+**********SONG INFO*********
+2
+song name: If I Can't Have You
+preview song: null
+album: If I Can't Have You
+artist(s): Shawn Mendes
+*****************************
+**********SONG INFO*********
+3
+song name: i love you
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+**********SONG INFO*********
+4
+song name: i
+preview song: https://p.scdn.co/mp3-preview/a393c84f01ff692b048e5f06479b3f827dd7f5c0?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Shelby
+artist(s): Lil Skies
+*****************************
+**********SONG INFO*********
+5
+song name: Can I
+preview song: null
+album: Care Package
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+6
+song name: Can I
+preview song: null
+album: Care Package
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+7
+song name: I Get Lonely
+preview song: null
+album: Care Package
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+8
+song name: I Fall Apart
+preview song: null
+album: Stoney (Deluxe)
+artist(s): Post Malone
+*****************************
+**********SONG INFO*********
+9
+song name: Murder On My Mind
+preview song: https://p.scdn.co/mp3-preview/b681a45cf2f796326f42bed43a6e419cd88ef92c?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I AM YOU
+artist(s): YNW Melly
+*****************************
+**********SONG INFO*********
+10
+song name: I Get Lonely
+preview song: null
+album: Care Package
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+11
+song name: I Like It
+preview song: https://p.scdn.co/mp3-preview/0f8734f51bb0a419959fdad3a0852621f9e6bc89?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Invasion of Privacy
+artist(s): Cardi B
+*****************************
+**********SONG INFO*********
+12
+song name: a lot
+preview song: https://p.scdn.co/mp3-preview/0ff1fadf009e81e7d80912c2372c7381a49e5863?cid=a75b08c8c6f942be80c5f305e88471f6
+album: i am > i was
+artist(s): 21 Savage
+*****************************
+**********SONG INFO*********
+13
+song name: Hey Look Ma, I Made It
+preview song: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Pray for the Wicked
+artist(s): Panic! At The Disco
+*****************************
+**********SONG INFO*********
+14
+song name: Whiskey Glasses
+preview song: https://p.scdn.co/mp3-preview/e30ac4e29a82422b9fa8454ddde40af92c63c709?cid=a75b08c8c6f942be80c5f305e88471f6
+album: If I Know Me
+artist(s): Morgan Wallen
+*****************************
+**********SONG INFO*********
+15
+song name: I Like Me Better
+preview song: https://p.scdn.co/mp3-preview/fa069a3be2d69aab5378b55f6c66d8b3eff1a6d3?cid=a75b08c8c6f942be80c5f305e88471f6
+album: I Like Me Better
+artist(s): Lauv
+*****************************
+**********SONG INFO*********
+16
+song name: I THINK
+preview song: https://p.scdn.co/mp3-preview/02728662c29717a7607f50a038dcf43fecbaa891?cid=a75b08c8c6f942be80c5f305e88471f6
+album: IGOR
+artist(s): Tyler, The Creator
+*****************************
+**********SONG INFO*********
+17
+song name: Juice
+preview song: https://p.scdn.co/mp3-preview/7ca1598cec36c49118562b02491b9a030e233d88?cid=a75b08c8c6f942be80c5f305e88471f6
+album: Cuz I Love You
+artist(s): Lizzo
+*****************************
+**********SONG INFO*********
+18
+song name: 'Till I Collapse
+preview song: null
+album: The Eminem Show
+artist(s): Eminem
+*****************************
+**********SONG INFO*********
+19
+song name: listen before i go
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
